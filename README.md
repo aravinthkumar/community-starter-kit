@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An application to help the starters
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It helps in understanding GIT :)
 
 ## Getting started
 
